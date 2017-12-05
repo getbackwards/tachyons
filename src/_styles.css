@@ -6,3 +6,23 @@
 
 */
 
+a {
+    color: var(--black-70);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Lists */
+dd {
+    margin-left: 0;
+}
+
+ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+
+
